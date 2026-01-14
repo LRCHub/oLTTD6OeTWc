@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "カサネアイ",
+  "base_artist": "Soala",
+  "createdAt": "2026-01-14T01:46:13.314688Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カサネアイ",
+      "artist": "Soala",
+      "has_synced": false,
+      "path": "select/01_カサネアイ_Soala.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カサネアイ",
+      "artist": "Soala",
+      "has_synced": false,
+      "path": "select/pl_01_カサネアイ_Soala.txt"
+    }
+  ]
+}
